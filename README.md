@@ -2,14 +2,16 @@
 
 ![BLSTRR Image](https://github.com/jesseleeruiz/BLSTRR/blob/main/BLSTRR.png)
 
+![BLSTRR Demo] (https://github.com/jesseleeruiz/BLSTRR/blob/main/BLSTRR.gif)
+
 ARKit shooting game.
 
 ## Tech Stack 🤓
-UIKit | tvOS | MapKit | Core Location | REST API |
+Swift | UIKit | SpriteKit | ARKit | 
 
 ___
 ## Background 😃
-I have a great love for movies and tv shows. On my free time you will find me re-watching my favorite tv series or movies, or binge watching a new and awesome tv show. Naturally, I would gravitate toward tvOS development and here it is you find me indeed. I started going through [Paul Hudson's _Hacking with tvOS_](https://www.hackingwithswift.com/store/hacking-with-tvos) and have been learning so much! Here is some of the fruit from this deep dive.
+My nephew has been asking me again and again for a game on the iPhone he can play. This is my first, and simple, attempt at doing that. I started going through [Paul Hudson's _Advanced iOS: Volume Two_](https://www.hackingwithswift.com/store/advanced-ios-2) and have been learning so much! Here is some of the fruit from this deep dive.
 
 ___
 ## Feedback 🤝

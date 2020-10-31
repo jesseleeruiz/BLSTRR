@@ -2,7 +2,7 @@
 
 ![BLSTRR Image](https://github.com/jesseleeruiz/BLSTRR/blob/main/BLSTRR.png)
 
-![BLSTRR Demo] (https://github.com/jesseleeruiz/BLSTRR/blob/main/BLSTRR.gif)
+![BLSTRR Demo](https://github.com/jesseleeruiz/BLSTRR/blob/main/BLSTRR.gif)
 
 ARKit shooting game.
 
